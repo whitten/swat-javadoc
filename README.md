@@ -1,4 +1,4 @@
-## Storyworld Authoring Tool
+## SWAT Javadoc
 
 This is a [Javadoc](https://en.wikipedia.org/wiki/Javadoc) created from the SWAT source code on 07/14/18.
 
