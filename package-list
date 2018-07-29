@@ -1,0 +1,15 @@
+Engine.enginePackage
+Restlet
+com.storytron.enginecommon
+com.storytron.swat
+com.storytron.swat.loglizard
+com.storytron.swat.tree
+com.storytron.swat.util
+com.storytron.swat.verbeditor
+com.storytron.test
+com.storytron.uber
+com.storytron.uber.deiktotrans
+com.storytron.uber.operator
+com.sun.jini.thread
+json
+storyTellerPackage
